@@ -2,15 +2,12 @@
 
 A new Flutter project.
 
-## Getting Started
+## Description
 
-This project is a starting point for a Flutter application.
+This is a simple app which generates a random word and lets you save your favourites.
 
-A few resources to get you started if this is your first Flutter project:
+I made this to learn Flutter for the first time.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+The detailed guide to this project is given in the link below :)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- [Lab: Write your first Flutter app](https://codelabs.developers.google.com/codelabs/flutter-codelab-first)
